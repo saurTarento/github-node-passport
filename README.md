@@ -1,5 +1,8 @@
-- [x] Route login,dashboard
-- [x] implement auth
-- [x] session
+- [x] Github Authentication using passport & node
+- [x] Oauth Implementation
+- [x] Route login
+- [x] Route dashboard
+- [x] Implement Auth
+- [x] Session 
 - [x] protected
 - [x] logout
